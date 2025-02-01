@@ -1,5 +1,4 @@
 # OISHI2022.github.io
-# nolowcodedev.github.io
 
 ## [การลงทะเบียน Github](https://www.youtube.com/watch?v=Rz6rS_8Gj4Q)
 
